@@ -12,4 +12,7 @@
 - 🤔 I’m looking for help with LLM
 - 📫 How to reach me: salmamashwaniz@gmail.com
 
+  👨‍💻 Tech Stack
+Python R  Matplotlib NumPy Pandas scikit-learn   Microsoft Excel
+
 
