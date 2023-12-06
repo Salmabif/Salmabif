@@ -1,9 +1,10 @@
 ### Hi there 👋
+👋 Hello there
+✨ My name is Salma Hafeez and i'm a Research Scholar in  Bioinformaticsat the  Comsats University  Islamabad.
 
-<!--
-**Salmabif/Salmabif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 I consider myself a proactive and curious individual, always eager to dive deep into new data sets and find meaningful insights.
 
-Here are some ideas to get you started:
+💻 My technical skillset includes proficiency in technologies such as Python, R,  Numpy, Pandas, Scikit-learn, as well as spreadsheets tools like Excel.
 
 - 🔭 I’m currently working on deep learning and computer vision projects
 - 🌱 I’m currently learning Gradio and hugging faces
