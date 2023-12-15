@@ -10,7 +10,8 @@
 - 🌱 I’m currently learning Gradio and hugging faces
 - 👯 I’m looking to collaborate on deep-learning projects
 - 🤔 I’m looking for help with LLM
-- 📫 How to reach me: salmahafeez575@@gmail.com
+- 📫 How to reach me: salmahafeez575@gmail.com
+- 
 
 
 
